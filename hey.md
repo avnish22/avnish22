@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @avnish22 
 - 👀 I’m interested in ...Data Science
-- 🌱 I’m currently learning ...numpy,pandas in python
+- 🌱 I’m currently learning ...Data Science,Machine Learning, NLP in python
 - 💞️ I’m looking to collaborate on ...Datascience
 - 📫 How to reach me ...7807280766,thakuravnish2000@gmail.com
 
